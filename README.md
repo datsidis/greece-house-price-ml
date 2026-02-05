@@ -19,6 +19,10 @@ The objective is to produce a reasonable approximation based on historical listi
 
 ## Dataset
 
+The dataset used in this project is not included due to licensing and
+redistribution restrictions.
+
+
 - Approximately 19,000 residential listings in Greece
 - Features include:
     - Property size (m²)

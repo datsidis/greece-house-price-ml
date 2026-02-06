@@ -31,7 +31,7 @@ redistribution restrictions.
     - Area-level location
     - Energy class
     - Binary amenities (parking, heating, solar, etc.)
-    - Floor information provided as Greek text
+
 
 ### Target Variable
 - `res_price_sqr`: listed price per square meter
